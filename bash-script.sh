@@ -1,7 +1,7 @@
 #!/bin/sh  
 delete="test1 test2 test3" 
 user="rahul-cloudeq" 
-password_or_oauth_token="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" 
+password_or_oauth_token="" 
  
 for repo in $delete 
 do 
