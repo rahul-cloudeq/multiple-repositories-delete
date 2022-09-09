@@ -1,7 +1,7 @@
 #!/bin/sh 
  
 # Delete a bunch of GitHub repos 
-nukem= `cat ./repo.txt` 
+nukem="test1 test2 test3" 
 user="${{ USER }}" 
 password_or_oauth_token="${{ TOKEN }}" 
  
